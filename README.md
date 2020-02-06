@@ -54,6 +54,7 @@ Open-source repositories:
 Organizations:
 
 - [Evertz](https://www.evertz.com)
+- [LogiOcean](https://www.logiocean.com)
 - [Lucidchart](https://www.lucidchart.com)
 - [Webdox](https://www.webdox.cl)
 - [WeMaintain](https://www.wemaintain.com)
